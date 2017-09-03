@@ -1,0 +1,502 @@
+[
+  {
+    "data_id": 0,
+    "analytical_model": {
+      "mean_demand": 1.9153629428124996,
+      "sd_demand": 1.2869794542797235,
+      "mean_lead_time": 2.5818072259766702,
+      "sd_lead_time": 1.8665467015849972,
+      "mean_wait": 0.01979334207014791,
+      "sd_wait": 0.18995114406615207,
+      "mean_n_in_system": 3.314037018361721,
+      "sd_n_in_system": 2.4077698626400266
+    },
+    "simulation_model": {
+      "mean_demand": 1.9197307200535747,
+      "sd_demand": 1.3042784867039277,
+      "mean_lead_time": 2.5842020184749237,
+      "sd_lead_time": 1.8677523619851808,
+      "mean_wait": 0.019917267166918773,
+      "sd_wait": 0.18942490921264937,
+      "mean_n_in_system": 3.3123355010502302,
+      "sd_n_in_system": 2.4316213171529593,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 1,
+    "analytical_model": {
+      "mean_demand": 1.799211198489881,
+      "sd_demand": 1.2025087109726043,
+      "mean_lead_time": 2.429807634039449,
+      "sd_lead_time": 1.7690352066903992,
+      "mean_wait": 0.013718383286512172,
+      "sd_wait": 0.15646353391442502,
+      "mean_n_in_system": 3.0287443453468645,
+      "sd_n_in_system": 2.2322891333430723
+    },
+    "simulation_model": {
+      "mean_demand": 1.800161773050888,
+      "sd_demand": 1.2139082525091036,
+      "mean_lead_time": 2.430436830063091,
+      "sd_lead_time": 1.773482744292651,
+      "mean_wait": 0.013615396148457385,
+      "sd_wait": 0.15421263057104864,
+      "mean_n_in_system": 3.035209968697168,
+      "sd_n_in_system": 2.251307141105348,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 2,
+    "analytical_model": {
+      "mean_demand": 1.7951155375448584,
+      "sd_demand": 1.163081996363812,
+      "mean_lead_time": 2.3808994434448785,
+      "sd_lead_time": 1.6977914784062529,
+      "mean_wait": 0.010729561936929845,
+      "sd_wait": 0.13630317381758747,
+      "mean_n_in_system": 2.964694370053304,
+      "sd_n_in_system": 2.150441757128248
+    },
+    "simulation_model": {
+      "mean_demand": 1.7933484720153314,
+      "sd_demand": 1.1663406029854215,
+      "mean_lead_time": 2.378364330729292,
+      "sd_lead_time": 1.6984822205749281,
+      "mean_wait": 0.010898552659711614,
+      "sd_wait": 0.1382481090329474,
+      "mean_n_in_system": 2.941365308693507,
+      "sd_n_in_system": 2.1358130949274905,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 3,
+    "analytical_model": {
+      "mean_demand": 1.9278823368019324,
+      "sd_demand": 1.2706217744824213,
+      "mean_lead_time": 2.6411547362255297,
+      "sd_lead_time": 1.871764007175525,
+      "mean_wait": 0.02105514204223856,
+      "sd_wait": 0.19546573503653827,
+      "mean_n_in_system": 3.3400684103019884,
+      "sd_n_in_system": 2.3911045142798786
+    },
+    "simulation_model": {
+      "mean_demand": 1.928232806003084,
+      "sd_demand": 1.2788984558003291,
+      "mean_lead_time": 2.640343910794449,
+      "sd_lead_time": 1.8646161679914468,
+      "mean_wait": 0.020517550560975765,
+      "sd_wait": 0.19308497516010845,
+      "mean_n_in_system": 3.2925455625102984,
+      "sd_n_in_system": 2.3855212915601136,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 4,
+    "analytical_model": {
+      "mean_demand": 1.712515731170992,
+      "sd_demand": 1.0797412706653218,
+      "mean_lead_time": 2.3189620005305125,
+      "sd_lead_time": 1.6375899701434704,
+      "mean_wait": 0.008509022224575532,
+      "sd_wait": 0.12017129215470859,
+      "mean_n_in_system": 2.7734203821672696,
+      "sd_n_in_system": 1.9938284492693035
+    },
+    "simulation_model": {
+      "mean_demand": 1.7152166739089652,
+      "sd_demand": 1.0840168413246727,
+      "mean_lead_time": 2.3207431935007516,
+      "sd_lead_time": 1.6372725444344118,
+      "mean_wait": 0.008381915685902512,
+      "sd_wait": 0.11735704745408564,
+      "mean_n_in_system": 2.739350773770273,
+      "sd_n_in_system": 1.9676857961862126,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 5,
+    "analytical_model": {
+      "mean_demand": 1.7073564396855243,
+      "sd_demand": 1.0951474620324801,
+      "mean_lead_time": 2.2245509521275793,
+      "sd_lead_time": 1.5793540691774974,
+      "mean_wait": 0.006559987500022791,
+      "sd_wait": 0.1048068529972079,
+      "mean_n_in_system": 2.739382551624381,
+      "sd_n_in_system": 2.003312206401547
+    },
+    "simulation_model": {
+      "mean_demand": 1.709850420664365,
+      "sd_demand": 1.1013643222275247,
+      "mean_lead_time": 2.225534301738298,
+      "sd_lead_time": 1.5790112627250443,
+      "mean_wait": 0.00648555881644516,
+      "sd_wait": 0.10226094589307422,
+      "mean_n_in_system": 2.72910296662203,
+      "sd_n_in_system": 1.9863797007963635,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 6,
+    "analytical_model": {
+      "mean_demand": 1.6342126699595583,
+      "sd_demand": 1.0110794595208954,
+      "mean_lead_time": 2.092872590384434,
+      "sd_lead_time": 1.4562981471946768,
+      "mean_wait": 0.0037614003427614475,
+      "sd_wait": 0.07756903481571767,
+      "mean_n_in_system": 2.5405334173054985,
+      "sd_n_in_system": 1.8322282233914338
+    },
+    "simulation_model": {
+      "mean_demand": 1.634537127513538,
+      "sd_demand": 1.0112083280497561,
+      "mean_lead_time": 2.095016634379297,
+      "sd_lead_time": 1.4595409091737903,
+      "mean_wait": 0.0036528017888491676,
+      "sd_wait": 0.07353505101909101,
+      "mean_n_in_system": 2.5090304464904,
+      "sd_n_in_system": 1.7952631847645952,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 7,
+    "analytical_model": {
+      "mean_demand": 1.6339095970031323,
+      "sd_demand": 1.0064195030476895,
+      "mean_lead_time": 2.0855352196659718,
+      "sd_lead_time": 1.4511177125214922,
+      "mean_wait": 0.003653287388767382,
+      "sd_wait": 0.07633345260556483,
+      "mean_n_in_system": 2.535208571650124,
+      "sd_n_in_system": 1.8222589694545912
+    },
+    "simulation_model": {
+      "mean_demand": 1.637234785892753,
+      "sd_demand": 1.0105985096373773,
+      "mean_lead_time": 2.0868955663881876,
+      "sd_lead_time": 1.4497835444661251,
+      "mean_wait": 0.0034407745894917273,
+      "sd_wait": 0.07220058839186975,
+      "mean_n_in_system": 2.504681934490555,
+      "sd_n_in_system": 1.7823742539630276,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 8,
+    "analytical_model": {
+      "mean_demand": 1.6810277020372844,
+      "sd_demand": 1.047185135808683,
+      "mean_lead_time": 2.1934220697053792,
+      "sd_lead_time": 1.5300262769146689,
+      "mean_wait": 0.00534634906927281,
+      "sd_wait": 0.09349161856622173,
+      "mean_n_in_system": 2.658254781691866,
+      "sd_n_in_system": 1.9119411880372357
+    },
+    "simulation_model": {
+      "mean_demand": 1.6827982339164913,
+      "sd_demand": 1.049662944658342,
+      "mean_lead_time": 2.1999823261971327,
+      "sd_lead_time": 1.5303917037412316,
+      "mean_wait": 0.005533281926493342,
+      "sd_wait": 0.09454311449505931,
+      "mean_n_in_system": 2.6232503766695405,
+      "sd_n_in_system": 1.881244475958218,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 9,
+    "analytical_model": {
+      "mean_demand": 1.7011273588194333,
+      "sd_demand": 1.0503026321696862,
+      "mean_lead_time": 2.212374712464144,
+      "sd_lead_time": 1.5268352917101913,
+      "mean_wait": 0.005329062685508486,
+      "sd_wait": 0.09301531378210638,
+      "mean_n_in_system": 2.6888333134889564,
+      "sd_n_in_system": 1.9188708689026983
+    },
+    "simulation_model": {
+      "mean_demand": 1.6990758367759986,
+      "sd_demand": 1.0500480820406484,
+      "mean_lead_time": 2.2108365842836433,
+      "sd_lead_time": 1.5264079607122938,
+      "mean_wait": 0.005125268350989127,
+      "sd_wait": 0.08823780380051174,
+      "mean_n_in_system": 2.640044484403595,
+      "sd_n_in_system": 1.867569881942433,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 10,
+    "analytical_model": {
+      "mean_demand": 2.105158881940024,
+      "sd_demand": 1.4767065148527887,
+      "mean_lead_time": 2.8530297717341515,
+      "sd_lead_time": 2.0694139200677037,
+      "mean_wait": 0.03821087602450304,
+      "sd_wait": 0.2709834885042265,
+      "mean_n_in_system": 3.87261494593185,
+      "sd_n_in_system": 2.793907373695894
+    },
+    "simulation_model": {
+      "mean_demand": 2.1126000169482957,
+      "sd_demand": 1.5116848177387325,
+      "mean_lead_time": 2.8559191393291377,
+      "sd_lead_time": 2.074986092860553,
+      "mean_wait": 0.03815088840424545,
+      "sd_wait": 0.2697630788490567,
+      "mean_n_in_system": 3.8948867066316257,
+      "sd_n_in_system": 2.8675450961257063,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 11,
+    "analytical_model": {
+      "mean_demand": 2.0378120552698964,
+      "sd_demand": 1.3472444700781159,
+      "mean_lead_time": 2.7258287599737487,
+      "sd_lead_time": 1.9220888136784495,
+      "mean_wait": 0.025309632310142095,
+      "sd_wait": 0.21534079924360897,
+      "mean_n_in_system": 3.5875468124430383,
+      "sd_n_in_system": 2.542301543794266
+    },
+    "simulation_model": {
+      "mean_demand": 2.0359497518830545,
+      "sd_demand": 1.3558252682918113,
+      "mean_lead_time": 2.719600094109991,
+      "sd_lead_time": 1.913735955311306,
+      "mean_wait": 0.02480681415037295,
+      "sd_wait": 0.2112063694029324,
+      "mean_n_in_system": 3.5306270662664447,
+      "sd_n_in_system": 2.5325004924012195,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 12,
+    "analytical_model": {
+      "mean_demand": 1.9222771990567336,
+      "sd_demand": 1.2014143549093075,
+      "mean_lead_time": 2.669841605952612,
+      "sd_lead_time": 1.8387329348880324,
+      "mean_wait": 0.019841217616757723,
+      "sd_wait": 0.1877626087696279,
+      "mean_n_in_system": 3.282148661581584,
+      "sd_n_in_system": 2.272890154624992
+    },
+    "simulation_model": {
+      "mean_demand": 1.9259783790645182,
+      "sd_demand": 1.211507636665731,
+      "mean_lead_time": 2.6730458878275885,
+      "sd_lead_time": 1.8413632414819465,
+      "mean_wait": 0.019853670673345893,
+      "sd_wait": 0.18762698459674532,
+      "mean_n_in_system": 3.2052819531658736,
+      "sd_n_in_system": 2.2461635947101133,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 13,
+    "analytical_model": {
+      "mean_demand": 2.1397067787538444,
+      "sd_demand": 1.306354969997071,
+      "mean_lead_time": 2.866698081503734,
+      "sd_lead_time": 1.8949021560583013,
+      "mean_wait": 0.027200664905419506,
+      "sd_wait": 0.22098653535955337,
+      "mean_n_in_system": 3.7273216733628836,
+      "sd_n_in_system": 2.5126009815780366
+    },
+    "simulation_model": {
+      "mean_demand": 2.142522423010507,
+      "sd_demand": 1.3183363108313133,
+      "mean_lead_time": 2.868623960568473,
+      "sd_lead_time": 1.8942129713319595,
+      "mean_wait": 0.02618705977323856,
+      "sd_wait": 0.2147098079981312,
+      "mean_n_in_system": 3.597569102554816,
+      "sd_n_in_system": 2.4618756277736944,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 14,
+    "analytical_model": {
+      "mean_demand": 1.9589843727739429,
+      "sd_demand": 1.228994650520555,
+      "mean_lead_time": 2.591214098269975,
+      "sd_lead_time": 1.788036298381457,
+      "mean_wait": 0.016334079405208313,
+      "sd_wait": 0.16927785682978574,
+      "mean_n_in_system": 3.3065813930190417,
+      "sd_n_in_system": 2.3068236904416595
+    },
+    "simulation_model": {
+      "mean_demand": 1.9594223678403395,
+      "sd_demand": 1.2326965872519227,
+      "mean_lead_time": 2.587856062813645,
+      "sd_lead_time": 1.7819678348337498,
+      "mean_wait": 0.01583191311557686,
+      "sd_wait": 0.16564934642406062,
+      "mean_n_in_system": 3.225360055301122,
+      "sd_n_in_system": 2.2502966601944543,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 15,
+    "analytical_model": {
+      "mean_demand": 1.9758445268346656,
+      "sd_demand": 1.2321794745075307,
+      "mean_lead_time": 2.5786374019219984,
+      "sd_lead_time": 1.7643830182577878,
+      "mean_wait": 0.015236082165797648,
+      "sd_wait": 0.16292793528480104,
+      "mean_n_in_system": 3.3172086374374925,
+      "sd_n_in_system": 2.3125555467726255
+    },
+    "simulation_model": {
+      "mean_demand": 1.9729412099843906,
+      "sd_demand": 1.2378659042765803,
+      "mean_lead_time": 2.5743620947012493,
+      "sd_lead_time": 1.761337703688429,
+      "mean_wait": 0.015419831519117222,
+      "sd_wait": 0.1647750890749156,
+      "mean_n_in_system": 3.2306576436201095,
+      "sd_n_in_system": 2.269502360296601,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 16,
+    "analytical_model": {
+      "mean_demand": 2.0268154681141173,
+      "sd_demand": 1.2271783991310614,
+      "mean_lead_time": 2.67801313147577,
+      "sd_lead_time": 1.7881839064899627,
+      "mean_wait": 0.017745941215021037,
+      "sd_wait": 0.17590466122189824,
+      "mean_n_in_system": 3.4165216320721696,
+      "sd_n_in_system": 2.3282572728798216
+    },
+    "simulation_model": {
+      "mean_demand": 2.029332222693022,
+      "sd_demand": 1.2393771521429453,
+      "mean_lead_time": 2.6818755169579327,
+      "sd_lead_time": 1.7942935265157132,
+      "mean_wait": 0.018444956758654773,
+      "sd_wait": 0.17991281885262844,
+      "mean_n_in_system": 3.3156107973615474,
+      "sd_n_in_system": 2.289133644692279,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 17,
+    "analytical_model": {
+      "mean_demand": 1.860313017398267,
+      "sd_demand": 1.1394712690729398,
+      "mean_lead_time": 2.388781075598361,
+      "sd_lead_time": 1.6276928149723247,
+      "mean_wait": 0.008642592858440785,
+      "sd_wait": 0.11998215953768342,
+      "mean_n_in_system": 3.012471572048286,
+      "sd_n_in_system": 2.106918842426657
+    },
+    "simulation_model": {
+      "mean_demand": 1.8611136406647695,
+      "sd_demand": 1.1425943266668295,
+      "mean_lead_time": 2.388464718772697,
+      "sd_lead_time": 1.6281320144721996,
+      "mean_wait": 0.008930223031888784,
+      "sd_wait": 0.12157304342976254,
+      "mean_n_in_system": 2.9424369361752944,
+      "sd_n_in_system": 2.044046597607845,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 18,
+    "analytical_model": {
+      "mean_demand": 1.710012660799459,
+      "sd_demand": 1.0045999115575062,
+      "mean_lead_time": 2.319513357506424,
+      "sd_lead_time": 1.579742119974567,
+      "mean_wait": 0.0069188592605862395,
+      "sd_wait": 0.10636893475151608,
+      "mean_n_in_system": 2.708945141570644,
+      "sd_n_in_system": 1.8583745800501534
+    },
+    "simulation_model": {
+      "mean_demand": 1.7085530807642122,
+      "sd_demand": 1.0062973416972663,
+      "mean_lead_time": 2.3196251887432306,
+      "sd_lead_time": 1.5833580817472008,
+      "mean_wait": 0.007281560353687385,
+      "sd_wait": 0.10876250377896687,
+      "mean_n_in_system": 2.6211961618194604,
+      "sd_n_in_system": 1.7980990433916062,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  },
+  {
+    "data_id": 19,
+    "analytical_model": {
+      "mean_demand": 1.880530373979858,
+      "sd_demand": 1.1215538722254925,
+      "mean_lead_time": 2.588142646315543,
+      "sd_lead_time": 1.744769575987465,
+      "mean_wait": 0.014501642606324801,
+      "sd_wait": 0.1578854231532043,
+      "mean_n_in_system": 3.1152601166034337,
+      "sd_n_in_system": 2.1176967389318198
+    },
+    "simulation_model": {
+      "mean_demand": 1.8829287426112677,
+      "sd_demand": 1.1257828584683425,
+      "mean_lead_time": 2.5878096907896975,
+      "sd_lead_time": 1.7412169572166274,
+      "mean_wait": 0.014587913180875472,
+      "sd_wait": 0.1574146759175683,
+      "mean_n_in_system": 3.006570313719124,
+      "sd_n_in_system": 2.0637014708402637,
+      "sim_length": 5000,
+      "replications": 50
+    }
+  }
+]
